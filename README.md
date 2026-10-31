@@ -1,3 +1,6 @@
+<img width="1753" height="559" alt="image" src="https://github.com/user-attachments/assets/e713877c-aab4-4943-88ef-de25ca108a63" />
+
+
 # Multi-LAN Router Configuration with DHCP, DNS & Web Server — Cisco Packet Tracer
 
 A Cisco Packet Tracer lab simulating a single router (Cisco 2911) serving **two separate LANs** on different subnets, each with its own DHCP pool, plus a statically configured DNS Server and Web Server reachable from both networks.
